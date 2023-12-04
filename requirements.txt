@@ -1,2 +1,4 @@
 Django~=4.2.7
 psycopg2~=2.9.9
+django-taggit~=5.0.1
+markdown~=3.5.1
